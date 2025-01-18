@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   demochart:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2025-01-18T12:36:25.052850017+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e28b8d73b9dbf0c8a7ecddcc3cb6ec37062affd5719c8b86085a344c9ca05bbb
+    name: demochart
+    type: application
+    urls:
+    - https://analyst-amit.github.io/helm-charts/demochart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-18T11:00:20.225642643+05:30"
+    created: "2025-01-18T12:36:25.052526595+05:30"
     description: A Helm chart for Kubernetes
     digest: f2802569ffe2ea9982567b05f6a333045d2272453fe08ce33aab19b24bfbebe9
     name: demochart
     type: application
     urls:
-    - demochart-0.1.0.tgz
+    - https://analyst-amit.github.io/helm-charts/demochart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-18T11:00:20.225253073+05:30"
+generated: "2025-01-18T12:36:25.051734901+05:30"
