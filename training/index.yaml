@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  training-service:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-01-21T21:57:27.780388265Z"
+    description: Helm chart for the Training Job
+    digest: 7aa6b70de5689ab6091e81eaedfb870ef54f4cb11c1ef679461ec2c3c4d59ca5
+    name: training-service
+    type: application
+    urls:
+    - https://analyst-amit.github.io/helm-charts/training/training-service-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-01-21T21:57:27.779945557Z"
