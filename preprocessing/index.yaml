@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   preprocessing-service:
   - apiVersion: v2
+    appVersion: 3.0.2
+    created: "2025-01-24T15:04:34.71401434Z"
+    description: Helm chart for the Preprocessing Service
+    digest: da4b9fc1083adea7da0cc9d9bacd3cec3ed64bb21a6943b6abed7f7553017335
+    name: preprocessing-service
+    type: application
+    urls:
+    - https://analyst-amit.github.io/helm-charts/preprocessing/preprocessing-service-3.0.2.tgz
+    version: 3.0.2
+  - apiVersion: v2
     appVersion: 3.0.1
-    created: "2025-01-21T21:44:24.788601485Z"
+    created: "2025-01-24T15:04:34.713751336Z"
     description: Helm chart for the Preprocessing Service
     digest: 1a5e5fb580bf6ec2f91d580e9ce41429ed842ffc45bc719136c2cf4c3a61869d
     name: preprocessing-service
@@ -13,7 +23,7 @@ entries:
     version: 3.0.1
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2025-01-21T21:44:24.788345282Z"
+    created: "2025-01-24T15:04:34.713506132Z"
     description: Helm chart for the Preprocessing Service
     digest: 305c673afabe27eb8237ee434055451da867eb52472bae52c02331da29bfb42c
     name: preprocessing-service
@@ -23,7 +33,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-01-21T21:44:24.788074979Z"
+    created: "2025-01-24T15:04:34.713240027Z"
     description: Helm chart for the Preprocessing Service
     digest: 7f5272749be8bb67b0803211bc7e4bba861be65f1206485f3a56689b5f59ac29
     name: preprocessing-service
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://analyst-amit.github.io/helm-charts/preprocessing/preprocessing-service-1.0.1.tgz
     version: 1.0.1
-generated: "2025-01-21T21:44:24.787595473Z"
+generated: "2025-01-24T15:04:34.712746019Z"
